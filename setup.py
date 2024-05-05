@@ -10,7 +10,7 @@ setup(
         'faster-whisper',
         'tqdm',
         'ffmpeg-python',
-        'fasttext',
+        'fasttext-wheel',
         'EasyNMT',
         'langcodes',
     ],
